@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather Forecast Application</string>
+    <string name="chanceofrain"></string>
+</resources>
